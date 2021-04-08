@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gerson Emanuel
+- 👀 I’m interested in create game
+- 🌱 I’m currently learning to create games :)
+- 💞️ I’m looking to collaborate on a game project :D
